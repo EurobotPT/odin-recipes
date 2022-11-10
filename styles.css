@@ -1,21 +1,9 @@
 
 body{
-    background-color:thistle;
-    
-
+    font-family: 'Courier New', Courier, monospace;
+    background-color:mediumaquamarine;
 }
 
-h1{
+h1, p, h2{
     text-align: center;
-    
-}
-
-p{
-    text-align: center;
-
-}
-
-h2 {
-    text-align: center;
-
 }
