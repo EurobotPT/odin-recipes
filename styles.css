@@ -7,3 +7,16 @@ body{
 h1, p, h2{
     text-align: center;
 }
+
+ul{
+    
+    list-style-type: none;
+    margin: 100px;
+    padding: 50px;
+    text-align: center;
+    background-color:rgba(100, 43, 138, 0.397);
+}
+
+li{
+    color: white;
+}
