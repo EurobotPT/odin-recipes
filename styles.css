@@ -12,10 +12,10 @@ p, h2 {
     text-align: center;
 }
 
-.list{ 
+.recipes{
     list-style-type: none;
-    margin: 100px;
+    margin: 50px;
     padding: 50px;
     text-align: center;
-    background-color:rgba(100, 43, 138, 0.397);
+    background-color:rgba(239, 243, 28, 0.397);
 }
